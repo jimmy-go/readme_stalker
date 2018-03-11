@@ -1,8 +1,8 @@
 ## Read all github and gitlab profile readmes in one place (CLI).
 
 [![License MIT](https://img.shields.io/npm/l/express.svg)](http://opensource.org/licenses/MIT)
-[![Build Status](https://travis-ci.org/jimmy-go/readm_stalker.svg?branch=master)](https://travis-ci.org/jimmy-go/readm_stalker)
-[![Coverage Status](https://coveralls.io/repos/github/jimmy-go/readm_stalker/badge.svg?branch=master)](https://coveralls.io/github/jimmy-go/readm_stalker?branch=master)
+[![Build Status](https://travis-ci.org/jimmy-go/readme_stalker.svg?branch=master)](https://travis-ci.org/jimmy-go/readme_stalker)
+[![Coverage Status](https://coveralls.io/repos/github/jimmy-go/readme_stalker/badge.svg?branch=master)](https://coveralls.io/github/jimmy-go/readme_stalker?branch=master)
 
 ![preview pic](https://github.com/jimmy-go/readme_stalker/blob/master/preview.jpg)
 
