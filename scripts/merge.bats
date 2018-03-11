@@ -5,7 +5,9 @@ load '../vendor/bats-assert/load'
 
 @test "merge() validate params" {
     DIR=$PWD/_files
-    run scripts/merge.sh $DIR $DIR/trash/index.html
+    OUT_DIR=$DIR/trash
+    mkdir -p $OUT_DIR
+    run scripts/merge.sh $DIR $OUT_DIR/index.html
     assert_success
 }
 
