@@ -1,7 +1,7 @@
-#!./test/libs/bats/bin/bats
+#!./vendor/bats/bin/bats
 
-load 'libs/bats-support/load'
-load 'libs/bats-assert/load'
+load '../vendor/bats-support/load'
+load '../vendor/bats-assert/load'
 
 @test "params: user, branch, token" {
     run scripts/params.sh "a" "b" "c"

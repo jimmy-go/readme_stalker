@@ -1,12 +1,9 @@
-[submodule "test/libs/bats"]
-	path = test/libs/bats
+[submodule "vendor/bats"]
+	path = vendor/bats
 	url = https://github.com/sstephenson/bats
-[submodule "test/libs/bats-support"]
-	path = test/libs/bats-support
+[submodule "vendor/bats-support"]
+	path = vendor/bats-support
 	url = https://github.com/ztombol/bats-support
-[submodule "test/libs/bats-assert"]
-	path = test/libs/bats-assert
-	url = https://github.com/ztombol/bats-assert
-[submodule "--force"]
-	path = --force
+[submodule "vendor/bats-assert"]
+	path = vendor/bats-assert
 	url = https://github.com/ztombol/bats-assert
