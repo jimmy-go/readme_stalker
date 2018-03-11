@@ -11,4 +11,6 @@ if [ -z "$OUT_FILE" ]; then
     exit 1
 fi
 
+ls -lha $HTML_DIR
+ls -lha $HTML_DIR/trash
 cat ${HTML_DIR}/*.html > ${OUT_FILE}
